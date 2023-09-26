@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Game Developer",
     bio: "I make games with Godot & Unity",
     email: "vincent.brodin21@gmail.com",
-    linkedin: "VincentBrodin",
+    linkedin: "vincent-brodin-820051242",
     github: "VincentBrodin",
     instagram: "",
   },
@@ -14,10 +14,6 @@ const CONFIG = {
     {
       name: `Unity-Bits`,
       href: "https://github.com/VincentBrodin/Unity-Bits",
-    },
-    {
-      name: `PodZone`,
-      href: "https://vincentbrodin.vercel.app/?tag=PodZone",
     },
   ],
   // blog setting (required)
