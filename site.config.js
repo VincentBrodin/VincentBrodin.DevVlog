@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "PodZone Dev-Blog",
-    description: "Dev-Blog for PodZone",
+    title: "Dev-Blog",
+    description: "Updates on all my projects",
   },
 
   // CONFIG configration (required)
