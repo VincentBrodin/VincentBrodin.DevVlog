@@ -15,6 +15,10 @@ const CONFIG = {
       name: `Unity-Bits`,
       href: "https://github.com/VincentBrodin/Unity-Bits",
     },
+    {
+      name: `PodZone`,
+      href: "https://vincentbrodin.vercel.app/?tag=PodZone",
+    },
   ],
   // blog setting (required)
   blog: {
