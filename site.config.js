@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `PodZone`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Unity-Bits`,
+      href: "https://github.com/VincentBrodin/Unity-Bits",
     },
   ],
   // blog setting (required)
