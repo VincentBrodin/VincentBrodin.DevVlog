@@ -6,8 +6,9 @@ const CONFIG = {
     role: "Game Developer",
     bio: "I make games with Godot & Unity",
     email: "vincent.brodin21@gmail.com",
-    youtube: "@VincentBrodin04",
+    linkedin: "",
     github: "VincentBrodin",
+    Instagram: "",
   },
   projects: [
     {
