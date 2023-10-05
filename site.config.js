@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Unity-Console`,
-      href: "https://github.com/VincentBrodin/Unity-Console",
+      name: `Console+`,
+      href: "https://github.com/VincentBrodin/Console-Plus",
     },
   ],
   // blog setting (required)
